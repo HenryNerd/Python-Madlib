@@ -1,6 +1,4 @@
 # Python-Madlib
 This python script allows you to do a madlib in a consle
-
-
-Made by Henry Nerd
-1.2
+This project is also on my replit
+https://replit.com/@HenryVeedahl1/A-charming-story-with-a-happy-ending-Madlibs?v=1
